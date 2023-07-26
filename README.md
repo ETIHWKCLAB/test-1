@@ -47,3 +47,12 @@ https://etihw.github.io
 
 > The information manager from hell.
 >> git means "global information traker"
+
+# 소스코드(backtic)
+- 한 줄짜리 소스 코드는 `function add(x,y{return x})`
+- 여러줄의 소스 코드
+```
+<script>
+var today = new Date();
+document.write(today);
+</script>
