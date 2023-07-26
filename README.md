@@ -56,3 +56,12 @@ https://etihw.github.io
 var today = new Date();
 document.write(today);
 </script>
+
+# 링크
+1. <링크주소>
+2. [링크텍스트](링크주소)
+4. [링크텍스트](링크주소, "부가 설명") : 링크 텍스트 위로 커서를 올리면 부가설명이 말풍선으로 나옴
+
+- <http://www.google.com>
+- [구글](http://www.google.com)
+- [구글](http://www.google.com, "검색 사이트")
