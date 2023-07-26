@@ -69,3 +69,4 @@ document.write(today);
 # 이미지
 - ![이미지텍스트](./이미지 경로)
 - ![pf](./images/pf.jpg)
+- ![namu](https://namu.wiki/jump/Xh4WN0jIu6vxtTPjqR73kS1UL7YxXn2tE%2B4Is8KI%2Fy1gKUUE%2BqiXkU3eoDdwK7%2Fo)
