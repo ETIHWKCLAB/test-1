@@ -68,4 +68,4 @@ document.write(today);
 
 # 이미지
 - ![이미지텍스트](./이미지 경로)
-- ![pf](./images/pf.png)
+- ![pf](./images/pf.jpg)
